@@ -1,0 +1,6 @@
+#Ignore checkpoint folders
+*/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/**
+
+#Ignore actual dataset
+**/*.csv
